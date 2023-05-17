@@ -1,2 +1,3 @@
 # matheus
-@matheushmoraez instagram
+@matheushmoraez
+-:grin: estudando **Pensamento Computacional**
